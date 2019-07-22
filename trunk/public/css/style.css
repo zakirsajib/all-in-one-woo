@@ -1,0 +1,23 @@
+#third .form-table th{
+	padding: 20px 0 0;
+}
+#third .regular-text{
+	width: 15em;
+}
+#third .form-table td{
+	padding: 15px 0;
+}
+li.ui-state-default.ui-corner-top.ui-tabs-active.ui-state-active a {
+    border-bottom: 1px solid #f1f1f1;
+    background: #f1f1f1;
+    color: #000;
+    margin-bottom: -1px;
+}
+#tabs .nav-tab-wrapper li{
+	margin-bottom: 0
+}
+
+.regular-text{
+	padding: 6px;
+	height: auto;
+}
