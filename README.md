@@ -10,11 +10,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin helps you customize WooCommerce without writing any code!
 
-== Description ==
+### Description
 
 __All in One Woo__ plugin allows WordPress/WooCommerce admin to rename the default label/buttons throughout the WooCommerce shop, checkout, cart and product page. It also allows to edit colors of existing buttons such as add to cart, buy product,view products, select options buttons.
 
-== Complete Details ==
+### Complete Details
 1. Rename Label/Button
 	* Add to cart
 	* Buy product
@@ -65,19 +65,18 @@ __All in One Woo__ plugin allows WordPress/WooCommerce admin to rename the defau
 	* Minimum Order Amount
 	* Don’t allow PO BOX shipping	
 
-== Installation ==
+### Installation
 
 1. Upload the plugin directory to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to All in One Woo section and edit as you wish.
 
-== Notes ==
+### Notes
 
 * Tested with __Twenty Nineteen__, __Twenty Seventeen__, __Storefront__ themes
 * __WooCommerce__ must be activated
 
-
-== Screenshots ==
+### Screenshots
 1. screenshot-1
 2. screenshot-2
 3. screenshot-3
