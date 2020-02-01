@@ -78,6 +78,7 @@ __All in One Woo__ plugin allows WordPress/WooCommerce admin to rename the defau
 
 ### Screenshots
 1. screenshot-1
+![All in one Woo Woocommerce plugin](https://github.com/zakirsajib/all-in-one-woo/blob/master/assets/screenshot-1.jpg)
 2. screenshot-2
 3. screenshot-3
 4. screenshot-4
