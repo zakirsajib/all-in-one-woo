@@ -1,20 +1,20 @@
-=== All in One Woo ===
-Contributors: zakirstage
-Tags: woocommerce, woocommerce filters, woocommerce shop, sell, sale, store, woocommerce text
-Requires at least: 4.1
-Tested up to: 5.2.2
-WC requires at least: 2.5.5
-WC tested up to: 3.6.5
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+## All in One Woo 
+* Contributors: zakirstage
+* Tags: woocommerce, woocommerce filters, woocommerce shop, sell, sale, store, woocommerce text
+* Requires at least: 4.1
+* Tested up to: 5.2.2
+* WC requires at least: 2.5.5
+* WC tested up to: 3.6.5
+* License: GPLv2 or later
+* License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin helps you customize WooCommerce without writing any code!
 
-== Description ==
+### Description
 
 __All in One Woo__ plugin allows WordPress/WooCommerce admin to rename the default label/buttons throughout the WooCommerce shop, checkout, cart and product page. It also allows to edit colors of existing buttons such as add to cart, buy product,view products, select options buttons.
 
-== Complete Details ==
+### Complete Details
 1. Rename Label/Button
 	* Add to cart
 	* Buy product
@@ -65,23 +65,22 @@ __All in One Woo__ plugin allows WordPress/WooCommerce admin to rename the defau
 	* Minimum Order Amount
 	* Don’t allow PO BOX shipping	
 
-== Installation ==
+### Installation
 
 1. Upload the plugin directory to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to All in One Woo section and edit as you wish.
 
-== Notes ==
+### Notes
 
 * Tested with __Twenty Nineteen__, __Twenty Seventeen__, __Storefront__ themes
 * __WooCommerce__ must be activated
 
-
-== Screenshots ==
-1. screenshot-1
-2. screenshot-2
-3. screenshot-3
-4. screenshot-4
-5. screenshot-5
-6. screenshot-6
-7. screenshot-7
+### Screenshots
+![All in one Woo Woocommerce plugin 1](https://github.com/zakirsajib/all-in-one-woo/blob/master/assets/screenshot-1.jpg)
+![All in one Woo Woocommerce plugin 2](https://github.com/zakirsajib/all-in-one-woo/blob/master/assets/screenshot-2.jpg)
+![All in one Woo Woocommerce plugin 3](https://github.com/zakirsajib/all-in-one-woo/blob/master/assets/screenshot-3.jpg)
+![All in one Woo Woocommerce plugin 4](https://github.com/zakirsajib/all-in-one-woo/blob/master/assets/screenshot-4.jpg)
+![All in one Woo Woocommerce plugin 5](https://github.com/zakirsajib/all-in-one-woo/blob/master/assets/screenshot-5.jpg)
+![All in one Woo Woocommerce plugin 6](https://github.com/zakirsajib/all-in-one-woo/blob/master/assets/screenshot-6.jpg)
+![All in one Woo Woocommerce plugin 7](https://github.com/zakirsajib/all-in-one-woo/blob/master/assets/screenshot-7.jpg)
