@@ -1,12 +1,12 @@
 ## All in One Woo 
-Contributors: zakirstage
-Tags: woocommerce, woocommerce filters, woocommerce shop, sell, sale, store, woocommerce text
-Requires at least: 4.1
-Tested up to: 5.2.2
-WC requires at least: 2.5.5
-WC tested up to: 3.6.5
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+* Contributors: zakirstage
+* Tags: woocommerce, woocommerce filters, woocommerce shop, sell, sale, store, woocommerce text
+* Requires at least: 4.1
+* Tested up to: 5.2.2
+* WC requires at least: 2.5.5
+* WC tested up to: 3.6.5
+* License: GPLv2 or later
+* License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin helps you customize WooCommerce without writing any code!
 
