@@ -77,11 +77,10 @@ __All in One Woo__ plugin allows WordPress/WooCommerce admin to rename the defau
 * __WooCommerce__ must be activated
 
 ### Screenshots
-1. screenshot-1
-![All in one Woo Woocommerce plugin](https://github.com/zakirsajib/all-in-one-woo/blob/master/assets/screenshot-1.jpg)
-2. screenshot-2
-3. screenshot-3
-4. screenshot-4
-5. screenshot-5
-6. screenshot-6
-7. screenshot-7
+![All in one Woo Woocommerce plugin 1](https://github.com/zakirsajib/all-in-one-woo/blob/master/assets/screenshot-1.jpg)
+![All in one Woo Woocommerce plugin 2](https://github.com/zakirsajib/all-in-one-woo/blob/master/assets/screenshot-2.jpg)
+![All in one Woo Woocommerce plugin 3](https://github.com/zakirsajib/all-in-one-woo/blob/master/assets/screenshot-3.jpg)
+![All in one Woo Woocommerce plugin 4](https://github.com/zakirsajib/all-in-one-woo/blob/master/assets/screenshot-4.jpg)
+![All in one Woo Woocommerce plugin 5](https://github.com/zakirsajib/all-in-one-woo/blob/master/assets/screenshot-5.jpg)
+![All in one Woo Woocommerce plugin 6](https://github.com/zakirsajib/all-in-one-woo/blob/master/assets/screenshot-6.jpg)
+![All in one Woo Woocommerce plugin 7](https://github.com/zakirsajib/all-in-one-woo/blob/master/assets/screenshot-7.jpg)
