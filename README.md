@@ -1,4 +1,4 @@
-=== All in One Woo ===
+## All in One Woo 
 Contributors: zakirstage
 Tags: woocommerce, woocommerce filters, woocommerce shop, sell, sale, store, woocommerce text
 Requires at least: 4.1
